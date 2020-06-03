@@ -46,3 +46,4 @@ for letter in word:
     else:
         print(workoutValues[letter] + ", ", end = '')
     i += 1
+print("Here is the form: https://forms.office.com/Pages/ResponsePage.aspx?id=62sJrmhT6UyYRiiw4ey8xNm_TWa-EkpCtJa3rgSMtfpUN1lOMFFPSVhRQjQ2S0I1REJDUVpUWUo3Mi4u")
